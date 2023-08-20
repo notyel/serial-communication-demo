@@ -1,0 +1,14 @@
+# Carpeta de configuración de Visual Studio Code
+.vscode/
+
+# Carpetas generadas por Visual Studio
+.vs/
+
+# Archivos generados por Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Carpetas generadas por .NET
+bin/
+obj/
