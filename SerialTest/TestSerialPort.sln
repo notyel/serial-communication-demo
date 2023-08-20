@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SerialPortTest", "TestSerialPort\SerialPortTest.csproj", "{48B68D2A-0997-490E-B3DA-87DA518BF7E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48B68D2A-0997-490E-B3DA-87DA518BF7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48B68D2A-0997-490E-B3DA-87DA518BF7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48B68D2A-0997-490E-B3DA-87DA518BF7E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48B68D2A-0997-490E-B3DA-87DA518BF7E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {360D8832-024E-4E44-844E-81C8608CC267}
+	EndGlobalSection
+EndGlobal
